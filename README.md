@@ -8,7 +8,7 @@ PowerShellのベストプラクティスとスタイルガイド
 [Table Of Contents](#table-of-contents)
 -->
 
-[目次](#table-of-contents)
+[目次](#目次)
 
 
 <!--
@@ -143,7 +143,7 @@ The guidelines are divided into these sections:
 Remember [what we mean by _Best Practices_](#what-are-best-practices)
 -->
 
-[「_ベストプラクティス_」の意味](#what-are-best-practices)を思い出してください。
+[「_ベストプラクティス_」の意味](#ベストプラクティスとは何ですか？)を思い出してください。
 
 
 <!--
