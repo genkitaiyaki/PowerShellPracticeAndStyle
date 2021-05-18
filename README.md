@@ -50,7 +50,7 @@ The authors encourage you to redistribute this content as widely as possible, bu
 <!--
 ### What are Best Practices
 -->
-### ベストプラクティスとは何ですか？
+### ベストプラクティスとは何ですか
 
 <!--
 _PowerShell Best Practices_ are what you should usually do as a starting point. They are ways of writing, thinking, and designing which make it _harder_ to get into trouble. The point of a _Best Practice_ is to help the reader to fall into the pit of success:
@@ -143,7 +143,7 @@ The guidelines are divided into these sections:
 Remember [what we mean by _Best Practices_](#what-are-best-practices)
 -->
 
-[「_ベストプラクティス_」の意味](#ベストプラクティスとは何ですか？)を思い出してください。
+[「_ベストプラクティス_」の意味](#ベストプラクティスとは何ですか)を思い出してください。
 
 
 <!--
